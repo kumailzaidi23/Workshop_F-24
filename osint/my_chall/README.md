@@ -1,0 +1,1 @@
+https://strangek.vercel.app/blog/writeups/deadsec/osint/finance
